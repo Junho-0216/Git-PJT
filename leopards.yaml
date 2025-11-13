@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nicholas
 
+<<<<<<< HEAD
 coach : Oscar
+=======
+coach : Melissa
+>>>>>>> f32e6b6 (Edit Leopards)
 
 members:
 - Linda
