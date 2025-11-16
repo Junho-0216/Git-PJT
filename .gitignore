@@ -1,4 +1,3 @@
 secrets.yaml
-# Ignore Windows and app data folders
-AppData/
+
 
